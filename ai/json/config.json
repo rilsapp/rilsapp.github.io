@@ -1,7 +1,7 @@
 {
-	"API_KEY": "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",
+	"API_KEY": "",
 	"display_avatar_in_chat": true,
-	"use_php_api": false,
+	"use_php_api": true,
 	"filter_badwords": true,
 	"chat_history": true,
 	"continuous_chat": true,
