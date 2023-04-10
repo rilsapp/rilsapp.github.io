@@ -1,8 +1,8 @@
 {
-	"API_KEY": "",
+	"API_KEY": "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",
 	"display_avatar_in_chat": true,
-	"use_php_api": true,
-	"filter_badwords": true,
+	"use_php_api": false,
+	"filter_badwords": false,
 	"chat_history": true,
 	"continuous_chat": true,
 	"shuffle_character": false,
