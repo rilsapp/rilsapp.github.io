@@ -1,0 +1,54 @@
+{
+      "app": {
+        "status": "1",
+        "ebook_pdf_url": "",
+        "ebook_description": "<p>Ebook 2023.</p>",
+        "allow_save_book_in_storage": "true",
+        "swipe_horizontal_reading_book": "true",
+        "show_scroll_handle_reading_book": "true",
+        "custom_table_of_contents": "true"
+      },
+      "notification": {
+        "fcm_notification_topic": "ebook",
+        "onesignal_app_id": ""
+      },
+      "url": {
+        "more_apps_url": "https://play.google.com/store/apps/dev?id=5429075517777108560",
+        "privacy_policy_url": "https://sites.google.com/view/kebijakan-pengguna",
+        "redirect_url": ""
+      },
+      "table_of_contents": [
+        {
+          "page_title": "COVER",
+          "page_number": 1
+        },
+        {
+          "page_title": "DAFTAR ISI",
+          "page_number": 2
+        },
+        {
+          "page_title": "BAB 1",
+          "page_number": 4
+        },
+        {
+          "page_title": "BAB 2",
+          "page_number": 8
+        },
+        {
+          "page_title": "BAB 3",
+          "page_number": 12
+        },
+        {
+          "page_title": "BAB 4",
+          "page_number": 18
+        },
+        {
+          "page_title": "BAB 5",
+          "page_number": 22
+        },
+        {
+            "page_title": "PENUTUP",
+            "page_number": 58
+          }
+      ]
+    }
