@@ -47,8 +47,8 @@
                "image": "https://i.imgur.com/r6Zd7qO.png"
             },
             {
-               "id": 7,
-               "name": "Politics",
+               "id": 6,
+               "name": "Politik",
                "image": "https://i.imgur.com/28DQxFt.png"
             },
             {
@@ -57,7 +57,7 @@
                "image": "https://i.imgur.com/2ngb45h.png"
             },
             {
-               "id": 6,
+               "id": 1,
                "name": "News",
                "image": "https://i.imgur.com/nyrbj9W.png"
             },
@@ -72,13 +72,13 @@
                "image": "https://i.imgur.com/83Bt9Mb.png"
             },
             {
-               "id": 8,
-               "name": "Football",
+               "id": 10,
+               "name": "Sepakbola",
                "image": "https://i.imgur.com/NqT55yX.png"
             },
             {
-               "id": 5,
-               "name": "Technology",
+               "id": 11,
+               "name": "Teknologi",
                "image": "https://i.imgur.com/f1EHhy6.png"
             },
             {
@@ -87,8 +87,8 @@
                "image": "https://i.imgur.com/qw9drQQ.png"
             },
             {
-               "id": 3,
-               "name": "Health",
+               "id": 9,
+               "name": "Kesehatan",
                "image": "https://i.imgur.com/ljK9HqE.png"
             },
             {
@@ -97,8 +97,8 @@
                "image": "https://i.imgur.com/hGOweXN.png"
             },
             {
-               "id": 16,
-               "name": "Entertainment",
+               "id": 7,
+               "name": "Seleb",
                "image": "https://i.imgur.com/I7O2nLm.png"
             },
             {
